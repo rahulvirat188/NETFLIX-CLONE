@@ -22,9 +22,12 @@ This project is a fully responsive clone of the Netflix India homepage, built us
 - `mobile.png`, `tv.png`, `Download.png` - Additional images used in the layout.
 
 ## How to Use
-1. Download or clone the repository.
-2. Open the `netflix.html` file in any modern web browser.
-3. Ensure the `netflix.css` file and images are in the same directory for proper rendering.
+1. In your computer, Download the zip file of the folder.
+2. once downloaded Extract all the files in this folder.
+3. And open the folder which is been extracted in your computer and search for `netflix.html` file and `netflix.css` file ,
+4. Open the `netflix.html` file in VS Code.
+5. Open the `netflix.css` file in VS Code.
+6. and to see the website click on 'open in browser' in VS Code.
 
 ## Notes
 - This is a static clone and does not include Netflix's functionality such as login, video playback, or animations.
